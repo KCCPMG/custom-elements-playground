@@ -19,4 +19,3 @@ class MyButton extends HTMLButtonElement {
 }
 
 customElements.define('my-button', MyButton, {extends: "button"});
-console.log("Am I losing my mind");
